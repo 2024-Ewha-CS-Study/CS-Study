@@ -2,7 +2,10 @@
 
 ## 📝 개요
 - 책과 학교 강의 교재로 개인적으로 학습한 뒤, 블로그 등을 통해 정리한 내용을 공유하는 스터디
-## 🙋🏻‍♀️참여 인원
+## 🙋🏻‍♀️스터디원
+| <img width=150px src="https://github.com/geeoneee.png"/> | <img width=150px src="https://github.com/zziyuni.png"/> |
+| :-----------------------: | :-----------------------: |   
+[김지원](https://github.com/geeoneee)               |           [윤지윤](https://github.com/zziyuni)    |
 
 ## 📚사용 교재
 - 면접을 위한 CS 전공 지식 노트
